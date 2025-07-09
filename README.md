@@ -7,6 +7,8 @@
 
 Este projeto demonstra a criação de um sistema de irrigação automatizado, simulado no Tinkercad Circuits, usando Arduino UNO. O sistema monitora a umidade do solo e a temperatura ambiente, controla uma bomba via PWM com soft-start, exibe informações em um display LCD 16×2 e emite alerta sonoro quando a temperatura ultrapassa um limite definido.
 
+Se você quiser acessar ao projeto diretamente pelo Tinkercad, basta clicar [**aqui**.](https://www.tinkercad.com/things/ip7CyGgiw8k-pratica-01-irrigacao-inteligente-com-sensor-de-humidade)
+
 ---
 
 ## Funcionalidades
