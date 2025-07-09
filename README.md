@@ -1,5 +1,8 @@
 # Irrigação Inteligente com Arduino e Tinkercad
 
+![image](https://github.com/user-attachments/assets/8b3e9238-83f1-4fa6-93a3-865201862230)
+
+
 ## Descrição
 
 Este projeto demonstra a criação de um sistema de irrigação automatizado, simulado no Tinkercad Circuits, usando Arduino UNO. O sistema monitora a umidade do solo e a temperatura ambiente, controla uma bomba via PWM com soft-start, exibe informações em um display LCD 16×2 e emite alerta sonoro quando a temperatura ultrapassa um limite definido.
